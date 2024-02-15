@@ -72,7 +72,7 @@ I feel that there is still room for improvement in my understanding of certain c
 
 ### Useful resources
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - This helped me on my CSS.
 
 ## Author
 
